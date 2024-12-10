@@ -1,3 +1,7 @@
+Simple example of how to bundle your react router framework with a custom http server into one js file.
+
+---
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
